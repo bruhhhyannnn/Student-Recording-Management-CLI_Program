@@ -1,7 +1,7 @@
 # Student Recoding Management Program
 import os
 
-file_path = 'Side Projects\\CLI Programs\\Automation with Python - freeCodeCamp\\test.txt'
+file_path = 'Side Projects\\CLI Programs\\Student Recording System - Python\\test.txt'
 student_list = []
 
 
